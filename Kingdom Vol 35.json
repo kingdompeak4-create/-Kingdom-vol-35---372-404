@@ -4,5 +4,14 @@
   "artist": "Yasuhisa Hara",
   "author": "Yasuhisa Hara",
   "cover": "https://imgur.com/gallery/kingdom-vol-35-372-404-i-will-update-new-chapters-when-is-done-o1yKCzK",
-  "chapters": {}
+  "chapters": {
+    "372": {
+      "title": "372",
+      "volume": "35",
+      "last_updated": "1758482817",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/kingdom-vol-35-372-404-i-will-update-new-chapters-when-is-done-o1yKCzK"
+      }
+    }
+  }
 }
