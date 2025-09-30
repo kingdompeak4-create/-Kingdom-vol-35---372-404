@@ -162,7 +162,7 @@
       }
     },
     "387": {
-      "title": "387",
+      "title": "",
       "volume": "36",
       "last_updated": "1759226323",
       "groups": {
@@ -199,6 +199,22 @@
       "last_updated": "1759226632",
       "groups": {
         "": "/proxy/api/imgur/chapter/l2IodNR"
+      }
+    },
+    "392": {
+      "title": "",
+      "volume": "36",
+      "last_updated": "1759226980",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/ivzZAdl"
+      }
+    },
+    "393": {
+      "title": "",
+      "volume": "36",
+      "last_updated": "1759226988",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/2miVQat"
       }
     }
   }
