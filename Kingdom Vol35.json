@@ -6,7 +6,7 @@
   "cover": "https://images2.imgbox.com/24/09/smUQbSS2_o.jpg",
   "chapters": {
     "350": {
-      "title": "Volume 33 - Light",
+      "title": "Volume 33",
       "volume": "33",
       "last_updated": "1759482336",
       "groups": {
@@ -179,6 +179,46 @@
       "last_updated": "1759484575",
       "groups": {
         "": "/proxy/api/imgur/chapter/lqWND6I"
+      }
+    },
+    "372": {
+      "title": "Volume 35",
+      "volume": "35",
+      "last_updated": "1759484943",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/kingdom-372-light-version-ncOkIEH"
+      }
+    },
+    "373": {
+      "title": "",
+      "volume": "35",
+      "last_updated": "1759485080",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/j30QS8y"
+      }
+    },
+    "374": {
+      "title": "",
+      "volume": "35",
+      "last_updated": "1759485263",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/v4vlzqx"
+      }
+    },
+    "375": {
+      "title": "",
+      "volume": "35",
+      "last_updated": "1759485270",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/7FbDFef"
+      }
+    },
+    "376": {
+      "title": "",
+      "volume": "35",
+      "last_updated": "1759485367",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/jsfd5it"
       }
     }
   }
