@@ -1,17 +1,8 @@
 {
   "title": "Kingdom Vol 33-57 (Light Version)",
-  "description": "Kingdom Archive Gone.\nHello Darkness, am working alone. Help. \n",
+  "description": "Kingdom Archive Gone.\nHello Darkness, am working alone. Help. \nI have to fix the links there is always some problems with Imgur.\n",
   "artist": "Yasuhisa Hara",
   "author": "Yasuhisa Hara",
   "cover": "https://i.imgur.com/3riWFov.jpeg",
-  "chapters": {
-    "4": {
-      "title": "Volume 36",
-      "volume": "",
-      "last_updated": "1759503254",
-      "groups": {
-        "": "/proxy/api/imgur/chapter/kingdom-volume-36-ISzCFkV"
-      }
-    }
-  }
+  "chapters": {}
 }
