@@ -4,14 +4,5 @@
   "artist": "Yasuhisa Hara",
   "author": "Yasuhisa Hara",
   "cover": "https://images2.imgbox.com/72/c5/9PMSP6zb_o.jpg",
-  "chapters": {
-    "383": {
-      "title": "",
-      "volume": "",
-      "last_updated": "1759505962",
-      "groups": {
-        "": "/proxy/api/imgbox/chapter/j8JiOreSX0"
-      }
-    }
-  }
+  "chapters": {}
 }
