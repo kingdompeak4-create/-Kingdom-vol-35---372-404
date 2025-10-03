@@ -92,6 +92,38 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/BXxRFrL"
       }
+    },
+    "361": {
+      "title": "Volume 34",
+      "volume": "34",
+      "last_updated": "1759483341",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/JNZNmqD"
+      }
+    },
+    "362": {
+      "title": "",
+      "volume": "34",
+      "last_updated": "1759483611",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/a7M8wqu"
+      }
+    },
+    "363": {
+      "title": "",
+      "volume": "34",
+      "last_updated": "1759483677",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/YPtpyzH"
+      }
+    },
+    "364": {
+      "title": "",
+      "volume": "34",
+      "last_updated": "1759483739",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/mWDunBT"
+      }
     }
   }
 }
