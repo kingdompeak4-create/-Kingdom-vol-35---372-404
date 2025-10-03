@@ -4,5 +4,94 @@
   "artist": "Yasuhisa Hara",
   "author": "Yasuhisa Hara",
   "cover": "https://images2.imgbox.com/24/09/smUQbSS2_o.jpg",
-  "chapters": {}
+  "chapters": {
+    "350": {
+      "title": "Volume 33 - Light",
+      "volume": "33",
+      "last_updated": "1759482336",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/NqsvCvR"
+      }
+    },
+    "351": {
+      "title": "",
+      "volume": "33",
+      "last_updated": "1759482410",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/rtcxzeP"
+      }
+    },
+    "352": {
+      "title": "",
+      "volume": "33",
+      "last_updated": "1759482419",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/vuhXEfG"
+      }
+    },
+    "353": {
+      "title": "",
+      "volume": "33",
+      "last_updated": "1759482472",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/na3JUrX"
+      }
+    },
+    "354": {
+      "title": "",
+      "volume": "33",
+      "last_updated": "1759482555",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/u8LqQyv"
+      }
+    },
+    "355": {
+      "title": "",
+      "volume": "33",
+      "last_updated": "1759482618",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/XOtcmXe"
+      }
+    },
+    "356": {
+      "title": "",
+      "volume": "33",
+      "last_updated": "1759482812",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/mTHbVS2"
+      }
+    },
+    "357": {
+      "title": "",
+      "volume": "33",
+      "last_updated": "1759482874",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/l2DWdwy"
+      }
+    },
+    "358": {
+      "title": "",
+      "volume": "33",
+      "last_updated": "1759483131",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/uacmG7E"
+      }
+    },
+    "359": {
+      "title": "",
+      "volume": "33",
+      "last_updated": "1759483183",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/2jHsOyt"
+      }
+    },
+    "360": {
+      "title": "",
+      "volume": "33",
+      "last_updated": "1759483263",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/BXxRFrL"
+      }
+    }
+  }
 }
