@@ -268,6 +268,94 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/am2MdOT"
       }
+    },
+    "383": {
+      "title": "Volume 36",
+      "volume": "36",
+      "last_updated": "1759486426",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/Dx9lE1T"
+      }
+    },
+    "384": {
+      "title": "",
+      "volume": "36",
+      "last_updated": "1759486441",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/qOmY5Yo"
+      }
+    },
+    "385": {
+      "title": "",
+      "volume": "36",
+      "last_updated": "1759486478",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/9xO4rEI"
+      }
+    },
+    "386": {
+      "title": "",
+      "volume": "36",
+      "last_updated": "1759486521",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/W7vIk86"
+      }
+    },
+    "387": {
+      "title": "",
+      "volume": "36",
+      "last_updated": "1759486576",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/TXIxb4b"
+      }
+    },
+    "388": {
+      "title": "",
+      "volume": "36",
+      "last_updated": "1759486636",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/Gtl9h4O"
+      }
+    },
+    "389": {
+      "title": "",
+      "volume": "36",
+      "last_updated": "1759486779",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/CihfaLj"
+      }
+    },
+    "390": {
+      "title": "",
+      "volume": "36",
+      "last_updated": "1759487075",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/18qHXSI"
+      }
+    },
+    "391": {
+      "title": "",
+      "volume": "36",
+      "last_updated": "1759487112",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/BSDG6Ms"
+      }
+    },
+    "392": {
+      "title": "",
+      "volume": "36",
+      "last_updated": "1759487167",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/YHvy0Fu"
+      }
+    },
+    "393": {
+      "title": "",
+      "volume": "36",
+      "last_updated": "1759487203",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/uyHReED"
+      }
     }
   }
 }
