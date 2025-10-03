@@ -3,6 +3,15 @@
   "description": "Kingdom Archive Gone.\nHello Darkness, am working alone. Help. \n",
   "artist": "Yasuhisa Hara",
   "author": "Yasuhisa Hara",
-  "cover": "https://i.imgur.com/65uhYeG.jpeg",
-  "chapters": {}
+  "cover": "https://i.imgur.com/3riWFov.jpeg",
+  "chapters": {
+    "4": {
+      "title": "Volume 36",
+      "volume": "",
+      "last_updated": "1759503254",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/kingdom-volume-36-ISzCFkV"
+      }
+    }
+  }
 }
