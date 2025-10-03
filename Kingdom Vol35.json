@@ -4,5 +4,14 @@
   "artist": "Yasuhisa Hara",
   "author": "Yasuhisa Hara",
   "cover": "https://i.imgur.com/xqpNjAl.jpeg",
-  "chapters": {}
+  "chapters": {
+    "35": {
+      "title": "Volume 35 -Light Version",
+      "volume": "35",
+      "last_updated": "1759474475",
+      "groups": {
+        "": "https://imgbox.com/g/FlGZNT0Mpo"
+      }
+    }
+  }
 }
